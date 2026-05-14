@@ -1,0 +1,6 @@
+{
+    "files": {
+        "SKILL.md": "# Mechanical Capture Operator\n\n## Core idea\nFor outputs that must land exactly in files or pipes, capture mechanically\u2014redirects, direct writes, structured dumps\u2014rather than hand-transcribing from memory.\n\n## Practice\nPipe tool output to the destination the spec names; avoid retyping computed values.\n\n## Anti-patterns\nParaphrasing numbers or hashes into chat  instead of preserving tool literals; \u201cpretty\u201d reformats that violate required formatting.\n"
+    },
+    "schema_version": 1
+}
